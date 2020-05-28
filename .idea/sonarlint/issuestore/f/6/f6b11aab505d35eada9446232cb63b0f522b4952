@@ -1,0 +1,102 @@
+
+V
+squid:S106<"9Replace this use of System.out or System.err by a logger.(×÷‘¸8Š¤ŠÖö-
+{squid:S4276H"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(­á¬‘8å¢§Öö-
+[
+squid:S106r"9Replace this use of System.out or System.err by a logger.(šµ² şÿÿÿÿ8ÊÌ³®ø-
+V
+squid:S1069"9Replace this use of System.out or System.err by a logger.(º¬éÂ8Š¤ŠÖö-
+ksquid:UselessImportCheck";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”şÿÿÿÿ8á­‹ø-
+Psquid:S1612‹",Replace this lambda with a method reference.(•êİïøÿÿÿÿ8Æ”öÚø-
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÂÍ‰8æ÷ºö-
+[
+squid:S106U"9Replace this use of System.out or System.err by a logger.(Ñ»¸õøÿÿÿÿ8¾Û¶Öö-
+V
+squid:S106W"9Replace this use of System.out or System.err by a logger.(Š…‚¸8¼âÖö-
+W
+squid:S106ª"9Replace this use of System.out or System.err by a logger.(ÜğÄã8øÛ×ùú-
+€squid:S4276B"]Refactor this code to use the more specialised Functional Interface 'BinaryOperator<Integer>'(‚ˆäÆøÿÿÿÿ8ÒÚšÖö-
+[
+squid:S1060"9Replace this use of System.out or System.err by a logger.(õÒøûÿÿÿÿÿ8€œôÕö-
+[
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ˆÈôçıÿÿÿÿ8à¼ó­ø-
+W
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(‰‚‡Ô8¯Á«ÿú-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ÄÖÇ8ë°Ñºö-
+wsquid:S4276"TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(¿ªãñÿÿÿÿÿ8êÔ¨ºö-
+\
+squid:S106“"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8¦Ÿ‰Õú-
+tsquid:S4276J"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(¿´ş°8å¢§Öö-
+V
+squid:S106S"9Replace this use of System.out or System.err by a logger.(Şøşç8¾Û¶Öö-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(£Ì¼+8Æ”öÚø-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(åØ»«şÿÿÿÿ8²Ë€»ö-
+\
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(ö¯ßúÿÿÿÿÿ8…¦Óùú-
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(“»¢­8¾Û¶Öö-
+^squid:UselessImportCheck"3Remove this unused import 'org.openqa.selenium.By'.(ÿŠŞ›8¨õ’ùú-
+W
+squid:S106§"9Replace this use of System.out or System.err by a logger.(¡±åı8øÛ×ùú-
+[
+squid:S106g"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ8Ğ¹›­ø-
+Osquid:S1612",Replace this lambda with a method reference.(éêºÇûÿÿÿÿ8Ğ×Ğºö-
+[
+squid:S106:"9Replace this use of System.out or System.err by a logger.(àêû ûÿÿÿÿ8Š¤ŠÖö-
+[
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¥¯¬ùÿÿÿÿ8¦­¥Öö-
+V
+squid:S106;"9Replace this use of System.out or System.err by a logger.(‹×­é8Š¤ŠÖö-
+Jsquid:S1612",Replace this lambda with a method reference.(ìïÏ²8ã¹ºö-
+V
+squid:S106L"9Replace this use of System.out or System.err by a logger.(òúïË8å¢§Öö-
+V
+squid:S106a"9Replace this use of System.out or System.err by a logger.(†«İÆ8‹Ãò­ø-
+nsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(‰¥ëÌıÿÿÿÿ8œúèÔú-
+[
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ØÇˆÌşÿÿÿÿ8å¢§Öö-
+[
+squid:S106*"9Replace this use of System.out or System.err by a logger.(Ìƒí™ûÿÿÿÿ8ı‡†»ö-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìïÏ²8ã¹ºö-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(‘ßƒöûÿÿÿÿ8¼¢®ºö-
+wsquid:S4276 "TRefactor this code to use the more specialised Functional Interface 'DoubleSupplier'(ÃØ¯õùÿÿÿÿ8ì±èºö-
+V
+squid:S106`"9Replace this use of System.out or System.err by a logger.(ÿåÿ®8¾·Òªù-
+Jsquid:S1612",Replace this lambda with a method reference.(ˆâÚò8“ûÅºö-
+V
+squid:S106p"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8« ®ø-
+\
+squid:S106¢"9Replace this use of System.out or System.err by a logger.(²­Èúÿÿÿÿ8¯Á«ÿú-
+V
+squid:S106,"9Replace this use of System.out or System.err by a logger.(Š…‚¸8øöÕö-
+Psquid:S1612…",Replace this lambda with a method reference.(•êİïøÿÿÿÿ8¦ş¸Úø-
+W
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á™§Ç8ò¥Ôùú-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(Ë°°¼ıÿÿÿÿ8‹éºö-
+Osquid:S1612",Replace this lambda with a method reference.(¿ªãñÿÿÿÿÿ8êÔ¨ºö-
+Msquid:S1611J"/Remove the parentheses around the "i" parameter(¿´ş°8å¢§Öö-
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ8Œò“ùú-
+W
+squid:S106 "9Replace this use of System.out or System.err by a logger.(©šŒ•8Ó¶ùú-
+~squid:S4276"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(éêºÇûÿÿÿÿ8Ğ×Ğºö-
+osquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´Îèîùÿÿÿÿ8Íœ¤Úø-
+W
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ÿåÿ®8ÓãÒªù-
+ysquid:S4276)"[Refactor this code to use the more specialised Functional Interface 'ToIntFunction<String>'(ÌÊİı8ı‡†»ö-
+U
+squid:S106^"9Replace this use of System.out or System.err by a logger.(«„¶"8‰ëáÖö-
+V
+squid:S106D"9Replace this use of System.out or System.err by a logger.(™Õ §8ÒÚšÖö-
+\
+squid:S106‡"9Replace this use of System.out or System.err by a logger.(±Ò…·üÿÿÿÿ8à•±Úø-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÜÜ´8ÛÏÇºö-
+ysquid:S4276Q"VRefactor this code to use the more specialised Functional Interface 'IntUnaryOperator'(İÊüÚúÿÿÿÿ8¾Û¶Öö-
